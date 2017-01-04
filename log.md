@@ -27,3 +27,12 @@
 **Link(s) to work**:
 https://github.com/rscordeiro/WordCounter/tree/index-php
 https://github.com/rscordeiro/WordCounter/tree/master
+
+
+### Day 4: January 4th, 2017
+
+**Today's Progress**: We've written the site with javascript, and it worked.
+
+**Thoughts**: Rewarding to finish the site on the way we first planed.
+
+**Link(s) to work**: https://github.com/rscordeiro/WordCounter
