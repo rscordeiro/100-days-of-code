@@ -36,3 +36,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**: Rewarding to finish the site on the way we first planed.
 
 **Link(s) to work**: https://github.com/rscordeiro/WordCounter
+
+
+### Day 5: January 5th, 2017
+
+**Today's Progress**: I started to create a site with my portfolio. Created the first section and the navbar of the site. They'll change yet, but they're on the right way.
+
+**Thoughts**: Really excited coding!
+
+**Link(s) to work**: https://github.com/rscordeiro/profileproject
