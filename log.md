@@ -45,3 +45,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**: Really excited coding!
 
 **Link(s) to work**: https://github.com/rscordeiro/profileproject
+
+
+## Day 6: January 6th, 2017
+
+**Today's Progress**: Added the portfolio's placeholder, and figured out leads to how to do what I want for the site.
+
+**Thoughts**:  Coding isn't that easy, but it's rewarding.
+
+**Link(s) to work**: https://github.com/rscordeiro/profileproject
