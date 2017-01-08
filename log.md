@@ -54,3 +54,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  Coding isn't that easy, but it's rewarding.
 
 **Link(s) to work**: https://github.com/rscordeiro/profileproject
+
+
+## Day 7: January 7th, 2017
+
+**Today's Progress**: Finished all the essentials elements of the site.
+
+**Thoughts**:  Still struggling with the tab issue, but enjoying it.
+
+**Link(s) to work**: https://github.com/rscordeiro/profileproject
