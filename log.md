@@ -47,7 +47,7 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Link(s) to work**: https://github.com/rscordeiro/profileproject
 
 
-## Day 6: January 6th, 2017
+### Day 6: January 6th, 2017
 
 **Today's Progress**: Added the portfolio's placeholder, and figured out leads to how to do what I want for the site.
 
@@ -56,10 +56,19 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Link(s) to work**: https://github.com/rscordeiro/profileproject
 
 
-## Day 7: January 7th, 2017
+### Day 7: January 7th, 2017
 
 **Today's Progress**: Finished all the essentials elements of the site.
 
 **Thoughts**:  Still struggling with the tab issue, but enjoying it.
+
+**Link(s) to work**: https://github.com/rscordeiro/profileproject
+
+
+### Day 8: January 8th, 2017
+
+**Today's Progress**: Made the tabs work properly.
+
+**Thoughts**:  YAY, I CAN DO IT!
 
 **Link(s) to work**: https://github.com/rscordeiro/profileproject
