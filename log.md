@@ -72,3 +72,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  YAY, I CAN DO IT!
 
 **Link(s) to work**: https://github.com/rscordeiro/profileproject
+
+
+### Day 9: January 9th, 2017
+
+**Today's Progress**: Small changes on css and bootstrap classes.
+
+**Thoughts**:  I have to commit more...
+
+**Link(s) to work**: https://github.com/rscordeiro/profileproject
