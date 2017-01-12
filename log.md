@@ -81,3 +81,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  I have to commit more...
 
 **Link(s) to work**: https://github.com/rscordeiro/profileproject
+
+
+### Day 10: January 11th, 2017
+
+**Today's Progress**: Small changes on the code, changed bizarre errors only.
+
+**Thoughts**:  Let's study more!
+
+**Link(s) to work**: https://github.com/rscordeiro/Drags
