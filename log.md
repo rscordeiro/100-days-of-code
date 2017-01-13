@@ -90,3 +90,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  Let's study more!
 
 **Link(s) to work**: https://github.com/rscordeiro/Drags
+
+
+### Day 11: January 12th, 2017
+
+**Today's Progress**: Just discovering ways to not to do what I want
+
+**Thoughts**:  Excited! Not sad or frustrated at all.
+
+**Link(s) to work**: https://github.com/rscordeiro/Drags
