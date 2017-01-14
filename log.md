@@ -99,3 +99,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  Excited! Not sad or frustrated at all.
 
 **Link(s) to work**: https://github.com/rscordeiro/Drags
+
+
+### Day 12: January 13th, 2017
+
+**Today's Progress**: First function working, second not working very well.
+
+**Thoughts**:  It was so easy, kinda asshamed of how easy it was.
+
+**Link(s) to work**: https://github.com/rscordeiro/Drags
