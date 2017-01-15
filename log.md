@@ -108,3 +108,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  It was so easy, kinda asshamed of how easy it was.
 
 **Link(s) to work**: https://github.com/rscordeiro/Drags
+
+
+### Day 13: January 14th, 2017
+
+**Today's Progress**: First and second functions working smoothly.
+
+**Thoughts**:  Yay! It's so nice when everything works well. THANK YOU, MOZÃO.
+
+**Link(s) to work**: https://github.com/rscordeiro/Drags
