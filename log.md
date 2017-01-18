@@ -126,3 +126,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  I'm enjoying code, even when nothing works properly.
 
 **Link(s) to work**: https://github.com/rscordeiro/Drags
+
+
+### Day 15: January 16th, 2017
+
+**Today's Progress**: Create a better way to add drags.
+
+**Thoughts**:  Not feeling very confidente about my solution.
+
+**Link(s) to work**: https://github.com/rscordeiro/Drags
