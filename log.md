@@ -135,3 +135,12 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  Not feeling very confidente about my solution.
 
 **Link(s) to work**: https://github.com/rscordeiro/Drags
+
+
+### Day 16: January 18th, 2017
+
+**Today's Progress**: Wrote almost all html.
+
+**Thoughts**:  It was very easy.
+
+**Link(s) to work**: https://github.com/rscordeiro/spirit-animal
