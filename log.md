@@ -144,3 +144,21 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  It was very easy.
 
 **Link(s) to work**: https://github.com/rscordeiro/spirit-animal
+
+
+### Day 17: January 19th, 2017
+
+**Today's Progress**: Tried some functions, but they didn't work.
+
+**Thoughts**:  I has to learn more about jQuery.
+
+**Link(s) to work**: https://github.com/rscordeiro/spirit-animal
+
+
+### Day 18: January 21th, 2017
+
+**Today's Progress**: Finished the site.
+
+**Thoughts**:  Cool!
+
+**Link(s) to work**: https://github.com/rscordeiro/spirit-animal
