@@ -162,3 +162,13 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**:  Cool!
 
 **Link(s) to work**: https://github.com/rscordeiro/spirit-animal
+
+
+### Day 19: January 22th, 2017
+
+**Today's Progress**: Create a website that gives you a random quote.
+
+**Thoughts**: I have to study by my own more often. Learn jQuery, AJAX, etc. 
+
+**Link(s) to work**: https://github.com/rscordeiro/random-quote-machine
+https://rscordeiro.github.io/randomquote.github.io/
