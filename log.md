@@ -171,4 +171,5 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Thoughts**: I have to study by my own more often. Learn jQuery, AJAX, etc. 
 
 **Link(s) to work**: https://github.com/rscordeiro/random-quote-machine
+
 https://rscordeiro.github.io/randomquote.github.io/
