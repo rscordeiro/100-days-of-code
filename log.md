@@ -173,3 +173,31 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Link(s) to work**: https://github.com/rscordeiro/random-quote-machine
 
 https://rscordeiro.github.io/randomquote.github.io/
+
+
+### Day 20: January 23th, 2017
+
+**Today's Progress**: Started the html of the Weather App project.
+
+**Thoughts**: Pretty nice, nothing new. 
+
+**Link(s) to work**: https://github.com/rscordeiro/local-weather
+
+
+### Day 21: January 24th, 2017
+
+**Today's Progress**: Finished the html and tried to make the js works.
+
+**Thoughts**: JSON, AJAX, jQuery are very confunsing.
+
+**Link(s) to work**: https://github.com/rscordeiro/local-weather
+
+
+### Day 22: January 28th, 2017
+
+**Today's Progress**: Made the js starts to work.
+
+**Thoughts**: I still think JSON, AJAX, jQuery are very confunsing.
+
+**Link(s) to work**: https://github.com/rscordeiro/local-weather
+
