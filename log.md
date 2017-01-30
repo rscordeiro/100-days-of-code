@@ -204,7 +204,7 @@ https://rscordeiro.github.io/randomquote.github.io/
 
 ### Day 23: January 29th, 2017
 
-**Today's Progress**: Re-modeled the site and implemented the tempeture button.
+**Today's Progress**: Re-modeled the site and implemented the temperature button.
 
 **Thoughts**: Surprised that it works.
 
