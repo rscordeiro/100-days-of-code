@@ -201,3 +201,11 @@ https://rscordeiro.github.io/randomquote.github.io/
 
 **Link(s) to work**: https://github.com/rscordeiro/local-weather
 
+
+### Day 23: January 29th, 2017
+
+**Today's Progress**: Re-modeled the site and implemented the tempeture button.
+
+**Thoughts**: Surprised that it works.
+
+**Link(s) to work**: https://github.com/rscordeiro/local-weather
