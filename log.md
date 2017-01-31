@@ -209,3 +209,12 @@ https://rscordeiro.github.io/randomquote.github.io/
 **Thoughts**: Surprised that it works.
 
 **Link(s) to work**: https://github.com/rscordeiro/local-weather
+
+
+### Day 24: January 30th, 2017
+
+**Today's Progress**: Made it displays the icon, so now it's almost done, missing just some css to style it.
+
+**Thoughts**: It was nice to write this code, and it's rewarding see it working.
+
+**Link(s) to work**: https://github.com/rscordeiro/local-weather
