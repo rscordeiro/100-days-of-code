@@ -155,7 +155,7 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Link(s) to work**: https://github.com/rscordeiro/spirit-animal
 
 
-### Day 18: January 21th, 2017
+### Day 18: January 21st, 2017
 
 **Today's Progress**: Finished the site.
 
@@ -164,7 +164,7 @@ https://github.com/rscordeiro/WordCounter/tree/master
 **Link(s) to work**: https://github.com/rscordeiro/spirit-animal
 
 
-### Day 19: January 22th, 2017
+### Day 19: January 22nd, 2017
 
 **Today's Progress**: Create a website that gives you a random quote.
 
@@ -175,7 +175,7 @@ https://github.com/rscordeiro/WordCounter/tree/master
 https://rscordeiro.github.io/randomquote.github.io/
 
 
-### Day 20: January 23th, 2017
+### Day 20: January 23rd, 2017
 
 **Today's Progress**: Started the html of the Weather App project.
 
@@ -218,3 +218,48 @@ https://rscordeiro.github.io/randomquote.github.io/
 **Thoughts**: It was nice to write this code, and it's rewarding see it working.
 
 **Link(s) to work**: https://github.com/rscordeiro/local-weather
+
+
+### Day 25: January 31st, 2017
+
+**Today's Progress**: Finished the project
+
+**Thoughts**: Proud with the work.
+
+**Link(s) to work**: https://github.com/rscordeiro/local-weather
+
+
+### Day 26: February 1st, 2017
+
+**Today's Progress**: Wrote almost all html
+
+**Thoughts**: It's nice play with html and css.
+
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
+
+
+### Day 27: February 5th, 2017
+
+**Today's Progress**: Struggling with the API
+
+**Thoughts**: Confused.
+
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
+
+
+### Day 28: February 9th, 2017
+
+**Today's Progress**: Struggling with the API
+
+**Thoughts**: Confused.
+
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
+
+
+### Day 29: February 10th, 2017
+
+**Today's Progress**: Great progress. Almost Finished. Missing some style and figure out where this lost "undefined" is coming from.
+
+**Thoughts**: YAY. I guess I've never enjoyed coding for hours like today
+
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
