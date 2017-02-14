@@ -235,7 +235,7 @@ https://rscordeiro.github.io/randomquote.github.io/
 
 **Thoughts**: It's nice play with html and css.
 
-**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer.github.io
 
 
 ### Day 27: February 5th, 2017
@@ -244,7 +244,7 @@ https://rscordeiro.github.io/randomquote.github.io/
 
 **Thoughts**: Confused.
 
-**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer.github.io
 
 
 ### Day 28: February 9th, 2017
@@ -253,7 +253,7 @@ https://rscordeiro.github.io/randomquote.github.io/
 
 **Thoughts**: Confused.
 
-**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer.github.io
 
 
 ### Day 29: February 10th, 2017
@@ -262,4 +262,22 @@ https://rscordeiro.github.io/randomquote.github.io/
 
 **Thoughts**: YAY. I guess I've never enjoyed coding for hours like today
 
-**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer.github.io
+
+
+### Day 30: February 11th, 2017
+
+**Today's Progress**: Finished the basic, but trying to implement an autocomplete feature
+
+**Thoughts**: Hard to find out why this autocomplete feature isn't working
+
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer.github.io
+
+
+### Day 31: February 12th, 2017
+
+**Today's Progress**: Finished!
+
+**Thoughts**: YAY! It was just a "t" that should be capital
+
+**Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer.github.io
