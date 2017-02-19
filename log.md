@@ -281,3 +281,30 @@ https://rscordeiro.github.io/randomquote.github.io/
 **Thoughts**: YAY! It was just a "t" that should be capital
 
 **Link(s) to work**: https://github.com/rscordeiro/wikipedia-viewer.github.io
+
+
+### Day 32: February 16th, 2017
+
+**Today's Progress**: Started the twitch project from freecodecamp
+
+**Thoughts**: No idea about the design
+
+**Link(s) to work**: https://github.com/rscordeiro/twitch
+
+
+### Day 32: February 17th, 2017
+
+**Today's Progress**: Changed the design
+
+**Thoughts**: Not liking it
+
+**Link(s) to work**: https://github.com/rscordeiro/twitch
+
+
+### Day 33: February 18th, 2017
+
+**Today's Progress**: Finisehd the core design.
+
+**Thoughts**: Now it's fine, but it's not on the wy planned first.
+
+**Link(s) to work**: https://github.com/rscordeiro/twitch
